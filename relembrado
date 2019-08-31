@@ -1,0 +1,3 @@
+ionic serve || é para rodar o programa
+
+ionic generate page "nome da pagina" || como criar uma pagina
